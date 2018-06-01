@@ -1,8 +1,12 @@
+def function():
+	print('hello world')
 a = 1
 b = 2
 c = 3
-d = 4
-e = 5
+class myclass(object):
+	def __inti__(self, name)
+		self.name = name
+my = myclass('lgh')
 f = 6
 h = 7
 
