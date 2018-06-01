@@ -9,5 +9,6 @@ class myclass(object):
 my = myclass('lgh')
 f = 6
 h = 7
+g = 8
 
 
